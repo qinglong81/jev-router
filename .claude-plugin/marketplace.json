@@ -1,0 +1,5 @@
+{
+  "name": "jev-router",
+  "owner": { "name": "jev-router" },
+  "plugins": [{ "name": "jev-toggle", "source": "./" }]
+}

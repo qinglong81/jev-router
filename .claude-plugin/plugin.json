@@ -1,0 +1,6 @@
+{
+  "name": "jev-toggle",
+  "version": "0.1.0",
+  "description": "One-click Jev router switch above the prompt box, showing the last model/skill pick.",
+  "types": "./types/index.d.ts"
+}
